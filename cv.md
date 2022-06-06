@@ -14,4 +14,4 @@ I am 24 years old. I live in Belarus. I have experience as an engineer. I want t
 # Languages
 + Belarusian
 + Russian
-+ English
++ English(A2)
