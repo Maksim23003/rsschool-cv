@@ -1,7 +1,8 @@
 **Maksim Gerashchenko**
 
 ## Contacts
-* Location: Gomel, Belarus
-* Phone: +375297690843
+* **Location**: Gomel, Belarus
+* **Phone**: +375297690843
+* **Email**: 
 
 
